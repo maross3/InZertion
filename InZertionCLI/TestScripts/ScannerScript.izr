@@ -1,0 +1,6 @@
+﻿var cat = 20;
+function CoolStory(cat)
+{
+    // comment
+    print cat;
+}
