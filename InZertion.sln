@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InZertion", "InZertion\InZertion.csproj", "{3955A949-20C7-447D-91FF-8C9DCE132DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InZertionCLI", "InZertionCLI\InZertionCLI.csproj", "{78453290-A311-42C1-AB99-8BBE588CD016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InZertionTests", "InZertionTests\InZertionTests.csproj", "{F5BCE42A-FA55-4157-8E46-3B7515E433E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3955A949-20C7-447D-91FF-8C9DCE132DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3955A949-20C7-447D-91FF-8C9DCE132DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3955A949-20C7-447D-91FF-8C9DCE132DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3955A949-20C7-447D-91FF-8C9DCE132DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78453290-A311-42C1-AB99-8BBE588CD016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78453290-A311-42C1-AB99-8BBE588CD016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78453290-A311-42C1-AB99-8BBE588CD016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78453290-A311-42C1-AB99-8BBE588CD016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BCE42A-FA55-4157-8E46-3B7515E433E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BCE42A-FA55-4157-8E46-3B7515E433E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BCE42A-FA55-4157-8E46-3B7515E433E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BCE42A-FA55-4157-8E46-3B7515E433E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
