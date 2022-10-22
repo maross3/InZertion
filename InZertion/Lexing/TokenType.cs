@@ -1,4 +1,4 @@
-﻿namespace InZertion;
+﻿namespace InZertion.Lexing;
 
 public enum TokenType
 {
@@ -38,6 +38,7 @@ public enum TokenType
 
     //keywords
     And,
+    Break,
     Class,
     Else,
     False,

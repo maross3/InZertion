@@ -1,4 +1,4 @@
-﻿namespace InZertion;
+﻿namespace InZertion.Lexing;
 
 public class Scanner
 {
